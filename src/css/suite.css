@@ -1,0 +1,7 @@
+.edit-button .pi {
+  color: black !important;
+}
+
+.edit-button:hover {
+  background-color: transparent !important;
+}
